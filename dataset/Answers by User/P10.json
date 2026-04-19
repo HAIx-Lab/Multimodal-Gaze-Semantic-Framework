@@ -1,0 +1,372 @@
+[
+    {
+        "Question_id": "Q01",
+        "Start_time": 1773119565.1599145,
+        "Selected_answer": "D",
+        "Response_time": 16.77,
+        "Confidence": "3/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q01.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q02",
+        "Start_time": 1773119581.9310985,
+        "Selected_answer": "D",
+        "Response_time": 43.04,
+        "Confidence": "4/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q02.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q03",
+        "Start_time": 1773119624.9835863,
+        "Selected_answer": "D",
+        "Response_time": 31.93,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q03.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q05",
+        "Start_time": 1773119656.920091,
+        "Selected_answer": "D",
+        "Response_time": 19.45,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q05.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q04",
+        "Start_time": 1773119676.3757198,
+        "Selected_answer": "A",
+        "Response_time": 33.94,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q04.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q06",
+        "Start_time": 1773119710.3206563,
+        "Selected_answer": "B",
+        "Response_time": 19.93,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q06.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q07",
+        "Start_time": 1773119730.2583892,
+        "Selected_answer": "A",
+        "Response_time": 21.53,
+        "Confidence": "4/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q07.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q08",
+        "Start_time": 1773119751.8004153,
+        "Selected_answer": "A",
+        "Response_time": 77.55,
+        "Confidence": "4/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q08.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q09",
+        "Start_time": 1773119829.3598397,
+        "Selected_answer": "B",
+        "Response_time": 18.78,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q09.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q10",
+        "Start_time": 1773119848.1525092,
+        "Selected_answer": "B",
+        "Response_time": 22.21,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q10.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q11",
+        "Start_time": 1773119870.3756108,
+        "Selected_answer": "A",
+        "Response_time": 13.83,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q11.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q12",
+        "Start_time": 1773119884.215434,
+        "Selected_answer": "A",
+        "Response_time": 11.77,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q12.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q13",
+        "Start_time": 1773119895.993388,
+        "Selected_answer": "A",
+        "Response_time": 9.49,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q13.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q14",
+        "Start_time": 1773119905.4960558,
+        "Selected_answer": "B",
+        "Response_time": 19.3,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q14.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q15",
+        "Start_time": 1773119924.8081524,
+        "Selected_answer": "B",
+        "Response_time": 39.78,
+        "Confidence": "3/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q15.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q16",
+        "Start_time": 1773119964.6001315,
+        "Selected_answer": "C",
+        "Response_time": 9.62,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q16.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q17",
+        "Start_time": 1773119974.231359,
+        "Selected_answer": "C",
+        "Response_time": 18.54,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q17.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q18",
+        "Start_time": 1773119992.7840252,
+        "Selected_answer": "C",
+        "Response_time": 42.1,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q18.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q19",
+        "Start_time": 1773120034.8960187,
+        "Selected_answer": "C",
+        "Response_time": 53.22,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q19.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q20",
+        "Start_time": 1773120088.1293666,
+        "Selected_answer": "D",
+        "Response_time": 38.15,
+        "Confidence": "2/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q20.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q21",
+        "Start_time": 1773120126.2875488,
+        "Selected_answer": "A",
+        "Response_time": 42.81,
+        "Confidence": "2/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q21.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q22",
+        "Start_time": 1773120169.1137931,
+        "Selected_answer": "C",
+        "Response_time": 33.07,
+        "Confidence": "2/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q22.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q23",
+        "Start_time": 1773120202.193838,
+        "Selected_answer": "D",
+        "Response_time": 41.08,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q23.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q24",
+        "Start_time": 1773120243.2798667,
+        "Selected_answer": "B",
+        "Response_time": 6.57,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q24.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q25",
+        "Start_time": 1773120249.8639145,
+        "Selected_answer": "D",
+        "Response_time": 14.36,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q25.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q26",
+        "Start_time": 1773120264.2341065,
+        "Selected_answer": "B",
+        "Response_time": 7.11,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q26.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q27",
+        "Start_time": 1773120271.3520255,
+        "Selected_answer": "B",
+        "Response_time": 8.74,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q27.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q28",
+        "Start_time": 1773120280.1040022,
+        "Selected_answer": "B",
+        "Response_time": 5.81,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q28.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q29",
+        "Start_time": 1773120285.9275868,
+        "Selected_answer": "C",
+        "Response_time": 25.42,
+        "Confidence": "4/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q29.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q30",
+        "Start_time": 1773120311.3593016,
+        "Selected_answer": "C",
+        "Response_time": 6.42,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q30.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q31",
+        "Start_time": 1773120317.7923489,
+        "Selected_answer": "C",
+        "Response_time": 45.59,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q31.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q32",
+        "Start_time": 1773120363.3912432,
+        "Selected_answer": "D",
+        "Response_time": 12.29,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q32.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q33",
+        "Start_time": 1773120375.6900415,
+        "Selected_answer": "D",
+        "Response_time": 8.36,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q33.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q34",
+        "Start_time": 1773120384.0633228,
+        "Selected_answer": "A",
+        "Response_time": 20.81,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q34.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q35",
+        "Start_time": 1773120404.8802614,
+        "Selected_answer": "D",
+        "Response_time": 20.95,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q35.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q36",
+        "Start_time": 1773120425.8397272,
+        "Selected_answer": "C",
+        "Response_time": 24.04,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q36.png",
+        "Attention_scores": 0
+    },
+    {
+        "Question_id": "Q37",
+        "Start_time": 1773120449.8900564,
+        "Selected_answer": "C",
+        "Response_time": 16.4,
+        "Confidence": "5/5",
+        "Eye_tracking_data": "data\\Gaze/P10.csv",
+        "Heat_map": "data\\Answer_Heatmap/P10_Q37.png",
+        "Attention_scores": 0
+    }
+]
